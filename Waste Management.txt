@@ -1,0 +1,44 @@
+
+  ................ User Input ................. 
+
+
+  Number of types of waste: 3
+
+  Waste types are: 
+
+  Type: 0
+
+  Type: 1
+
+  Type: 4
+
+
+  The landfill capacity (tons/day): 23.000000
+
+  The recycling capacity (tons/day): 40.000000
+
+
+  The cost of unit waste processing by waste type (BDT/ton): 
+
+  For waste type 0: 34.000000 
+
+  For waste type 1: 23.000000 
+
+  For waste type 4: 56.000000 
+
+
+
+  ................ Program Output ................. 
+
+
+  Total quantity of waste to be processed per day by waste types: 
+
+  Type 0: 0.000000 (tons/day).
+
+  Type 1: 35.382713 (tons/day).
+
+  Type 4: 27.617283 (tons/day).
+
+
+  Minimum cost required to process wastes: 2360.370361 (BDT/day)
+
